@@ -1,0 +1,233 @@
+.overlay {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+.overlay a {
+  position: absolute;
+}
+.overlay a:hover {
+  background: rgba(10, 10, 10, 0.5);
+}
+.working-in-the-open {
+  width: 447px;
+  height: 200px;
+  top: 615px;
+  left: 337px;
+}
+.mozilla-india {
+  width: 154px;
+  height: 154px;
+  top: 1646px;
+  left: 1388px;
+  border-radius: 100%;
+}
+.sumo {
+  width: 148px;
+  height: 148px;
+  top: 1636px;
+  left: 1223px;
+  border-radius: 100%;
+}
+.reps {
+  width: 148px;
+  height: 148px;
+  top: 1510px;
+  left: 1345px;
+  border-radius: 100%;
+}
+.rust {
+  width: 156px;
+  height: 142px;
+  top: 1616px;
+  left: 1561px;
+  border-radius: 100%;
+}
+.clubs {
+  width: 148px;
+  height: 143px;
+  top: 1459px;
+  left: 1670px;
+  border-radius: 100%;
+}
+.distributed-teams {
+  width: 195px;
+  height: 668px;
+  top: 343px;
+  left: 1304px;
+}
+.bugsahoy {
+  width: 596px;
+  height: 37px;
+  top: 1357px;
+  left: 4068px;
+}
+.mozfest {
+  width: 386px;
+  height: 37px;
+  top: 1391px;
+  left: 4279px;
+}
+.bay-area-rust {
+  width: 690px;
+  height: 37px;
+  top: 1320px;
+  left: 3971px;
+}
+.herp-derp {
+  width: 701px;
+  height: 37px;
+  top: 1286px;
+  left: 3958px;
+}
+.teach {
+  width: 334px;
+  height: 37px;
+  top: 1042px;
+  left: 4328px;
+}
+.dev-tools {
+  width: 334px;
+  height: 37px;
+  top: 1076px;
+  left: 4328px;
+}
+.bedrock-pipeline {
+  width: 1356px;
+  height: 37px;
+  top: 1215px;
+  left: 3309px;
+}
+.ajaaks {
+  width: 611px;
+  height: 37px;
+  top: 1181px;
+  left: 4053px;
+}
+.wasm {
+  width: 477px;
+  height: 37px;
+  top: 1145px;
+  left: 4189px;
+}
+.cheevos {
+  width: 411px;
+  height: 37px;
+  top: 1108px;
+  left: 4250px;
+}
+.webgl {
+  width: 1531px;
+  height: 37px;
+  top: 1251px;
+  left: 3131px;
+}
+.policy-advocacy {
+  width: 482px;
+  height: 257px;
+  top: 791px;
+  left: 3288px;
+}
+.marketing {
+  width: 433px;
+  height: 135px;
+  top: 2008px;
+  left: 3168px;
+}
+.platform {
+  width: 433px;
+  height: 205px;
+  top: 2677px;
+  left: 3168px;
+}
+.how-mozilla-make-money {
+  width: 553px;
+  height: 187px;
+  top: 3207px;
+  left: 2708px;
+}
+.connected-devices {
+  width: 313px;
+  height: 134px;
+  top: 2831px;
+  left: 2513px;
+}
+.participation {
+  width: 543px;
+  height: 134px;
+  top: 2047px;
+  left: 673px;
+}
+.data {
+  width: 203px;
+  height: 134px;
+  top: 1682px;
+  left: 3833px;
+}
+.innovation {
+  width: 393px;
+  height: 104px;
+  top: 1522px;
+  left: 2834px;
+}
+.brain-tricks {
+  width: 100px;
+  height: 100px;
+  top: 1247px;
+  left: 2207px;
+}
+.encrypt-1 {
+  width: 140px;
+  height: 100px;
+  top: 957px;
+  left: 3197px;
+}
+.jo-surv {
+  width: 84px;
+  height: 53px;
+  top: 920px;
+  left: 3140px;
+}
+.activity-stream {
+  width: 84px;
+  height: 62px;
+  top: 2580px;
+  left: 4093px;
+}
+.encrypt-2 {
+  width: 120px;
+  height: 90px;
+  top: 3046px;
+  left: 3962px;
+}
+.foundation {
+  width: 350px;
+  height: 190px;
+  top: 2996px;
+  left: 4089px;
+}
+.fxos {
+  width: 82px;
+  height: 65px;
+  top: 2975px;
+  left: 2930px;
+}
+.inclusion {
+  width: 300px;
+  height: 195px;
+  top: 1160px;
+  left: 1786px;
+}
+.firefox {
+  width: 300px;
+  height: 125px;
+  top: 2377px;
+  left: 3976px;
+}
+.wpr {
+  width: 230px;
+  height: 125px;
+  top: 1077px;
+  left: 1146px;
+}
